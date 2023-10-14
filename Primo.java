@@ -23,7 +23,7 @@ import java.util.Scanner; public class Primo{
                     break;
                 }
             }            
-            if((com.equalsIgnoreCase(en))){break;}
+            if((com.equals(en))){break;}
         } //fim da trave.
         System.out.println(en+"<- oque saiu da trava");// Errado: 12n4 | Correto:1234
         System.out.println(com+"<- valor de com");
