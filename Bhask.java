@@ -1,4 +1,4 @@
-// Ainda esta incompleto 
+// Ainda esta incompleto  
 import java.util.Scanner;public class Bhask{
     
     public static void main(String[] args) {
