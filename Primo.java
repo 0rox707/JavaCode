@@ -1,3 +1,4 @@
+//Ainda Tem algums poblemas!!
 //Dizer se o numero digitado e primo ou não!
 import java.util.Scanner; public class Primo{
     public static void main(String[] args) {
